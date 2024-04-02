@@ -45,7 +45,7 @@ const Board = () => {
     );
 };
 
-const DEFAULT_CARDS = [
+/*const DEFAULT_CARDS = [
     // BACKLOG
     { title: "Look into render bug in dashboard", id: "1", column: "backlog" },
     { title: "SOX compliance checklist", id: "2", column: "backlog" },
@@ -73,6 +73,6 @@ const DEFAULT_CARDS = [
         id: "10",
         column: "done",
     },
-];
+];*/
 
 export default Board;

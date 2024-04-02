@@ -7,7 +7,6 @@ const NavBar = ({ changeTheme, deleteAllTasks }) => {
                 <h1>Todo App</h1>
                 <div className="buttons">
                     <button onClick={changeTheme}>Change Theme</button>
-                    <button onClick={deleteAllTasks}>Delete All Tasks</button>
                 </div>
             </div>
         </nav>
